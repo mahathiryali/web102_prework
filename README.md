@@ -1,8 +1,8 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - *Crowdfunding Tracker*
 
 Submitted by: **Mahathi Ryali**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Crowdfunding Tracker** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **2** hours spent in total
 
