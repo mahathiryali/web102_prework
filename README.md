@@ -19,10 +19,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1iQ8mozgtu7zthX_O0ymVAaH54h1-s4YP/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Preview](https://drive.google.com/thumbnail?id=1zlxic9G7WevTzlMNP-4no19xTu7sGs7_)](https://drive.google.com/file/d/1zlxic9G7WevTzlMNP-4no19xTu7sGs7_/view)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+Video Walkthrough created with Apple Screen Recording  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
